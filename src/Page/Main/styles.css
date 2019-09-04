@@ -1,0 +1,61 @@
+.cnhsList {
+    max-width: 700px;
+    margin: 20px auto 0;
+    padding: 0 20px;
+}
+
+.cnhsList article {
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.cnhsList article:hover {
+    background: hsl(130, 69%, 38%);
+    color: #fff;
+    cursor: pointer;
+}
+
+.foto {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+}
+
+.paraleloCentral {
+    display: flex;
+}
+
+.paraleloUnitario1{
+    display: flex;
+}
+
+.paraleloUnitario2{
+    display: flex;
+}
+
+.dataNascimento{
+    margin-left: 100px;
+}
+
+.acc{
+    margin-left: 125px;
+}
+
+.catHab{
+    margin-left: 50px;
+}
+
+.paraleloUnitario3 { 
+    display: flex;
+}
+
+.validade{
+    margin-left: 100px;
+}
+
+.primeiraHabilitacao{
+    margin-left: 80px;
+}

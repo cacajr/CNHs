@@ -1,0 +1,36 @@
+div#mainFilter {
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+    display: flex;
+    align-items: center;
+    max-width: 700px;
+    margin: 20px auto 0;
+    padding: 0 20px;
+}
+
+button#buttonFilterName {
+   margin-left: 20px;
+   padding: 10px;
+   background: rgb(18, 110, 33);
+   color: white;
+   border: 0;
+   border-radius: 5px;
+}
+button#buttonFilterName:hover {
+    cursor: pointer;
+    background: hsl(130, 69%, 38%);
+ }
+
+button#buttonFilterValidade {
+    margin-left: 20px;
+    padding: 10px;
+   background: rgb(18, 110, 33);
+   color: white;
+   border: 0;
+   border-radius: 5px;
+}
+button#buttonFilterValidade:hover {
+    cursor: pointer;
+    background: hsl(130, 69%, 38%);
+}
